@@ -3,7 +3,7 @@
     <property name="created">2019-05-07T16:19:27</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-07T16:20:19</property>
+    <property name="modified">2019-05-07T16:22:44</property>
     <property name="originalScheme">_@user_Blackboard</property>
   </metaInfo>
   <colors>
@@ -291,25 +291,21 @@
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e3e3ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="71d7d7" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffc2c2" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
