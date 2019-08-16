@@ -9,16 +9,41 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/Glitter/Glitter/Sources/main.cpp" timestamp="1564451807569">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/Glitter/Glitter/Vendor/bullet/src/Bullet3Common/b3AlignedAllocator.cpp" timestamp="1564451971300">
+        <mark key="[" line="95" column="51" />
+        <mark key="]" line="95" column="51" />
+        <mark key="^" line="95" column="51" />
+        <mark key="." line="95" column="51" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>b3AlignedAllocDefault</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>b3AlignedAllocDefault</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>q!</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
